@@ -1,8 +1,9 @@
+import Hero from "../Components/Index/Hero"
 
 
 const Home = () => {
     return <>
-       <h2>my name is Jupiter</h2>
+        <Hero />
     </>
 }
 
