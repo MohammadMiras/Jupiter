@@ -1,5 +1,5 @@
 # Jupiter
-framework : React
+Framework : React
 MetaFramework : Next 
 
 Development based on personal infrastructure
